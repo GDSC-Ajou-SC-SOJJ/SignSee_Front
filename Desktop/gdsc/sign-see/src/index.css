@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Aldrich';
+  font-weight: normal;
+  src: url('./assets/fonts/Aldrich-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Aldrich';
+}
